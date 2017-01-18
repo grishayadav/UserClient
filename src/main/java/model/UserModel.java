@@ -1,7 +1,7 @@
 package model;
 
 public class UserModel {
-	
+	private int id;
 	private String username;
     private String password;
 	public String getUsername() {
